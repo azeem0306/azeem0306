@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Azeem Rashard
+- 👀 I’m interested in Database Engineering, Web Development and Software Engineering.
+- 🌱 I’m currently learning Software Engineering.
+- 📫 You can reach me through my email - azeemrashard@gmail.com
